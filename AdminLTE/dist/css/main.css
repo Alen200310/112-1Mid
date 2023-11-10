@@ -1,8 +1,8 @@
-table>id *example1
+.id [table*=example1]
 {
     background-color: rgba(128, 128, 128, 0.3);
 }
-style:hover
+.id [table*=example1]:hover
 {
     background-color: rgba(160, 160, 240, 0.3);
     opacity: 0.1;
